@@ -239,8 +239,8 @@ Distributed under the MIT License.
 **Pratyush Raj**
 LinkedIn: [https://www.linkedin.com/in/pratyushraj0176/](https://www.linkedin.com/in/pratyushraj0176/)
 
-**Aron Chandel**
-**Abhijeet Senapati**
+**Aron Chandel** Github: [https://github.com/aronchandel]
+**Abhijeet Senapati** Github: [https://github.com/abhijeet586]
 
 ---
 
