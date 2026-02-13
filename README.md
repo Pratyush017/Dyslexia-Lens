@@ -240,10 +240,11 @@ Distributed under the MIT License.
 LinkedIn: [https://www.linkedin.com/in/pratyushraj0176/](https://www.linkedin.com/in/pratyushraj0176/)
 
 **Aron Chandel** 
-Github: [https://github.com/aronchandel]
+[GitHub](https://github.com/aronchandel)
 
 **Abhijeet Senapati** 
-Github: [https://github.com/abhijeet586]
+[GitHub](https://github.com/abhijeet586)
+
 
 ---
 
